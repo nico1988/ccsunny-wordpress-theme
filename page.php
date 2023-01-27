@@ -1,0 +1,1 @@
+<h2>This is a page, not a post</h2>
